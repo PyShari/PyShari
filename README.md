@@ -13,4 +13,4 @@ Interests:
 🤖 Applying AI & predictive analytics in workplace decision-making
 
 
-🐍 Python | 📄 SQL | 📊 R
+Python | SQL | R
